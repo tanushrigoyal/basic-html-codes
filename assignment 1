@@ -1,0 +1,35 @@
+# basic-html-codes
+<html>
+  <head>
+    <title>
+      Welcome
+    </title>
+  </head>
+      <body>
+    <marquee><hr>This is web page</hr></marquee>
+      
+   <img src ="logo.jpg" alt="welcome to jecrc">
+         <table>
+        <table frame ="border" border="1" width="75%">
+          <tr>
+         <td><h1><br>Name</h1></td>
+         <td><h1><br>Github</h1></br></td>
+         <td><h1><Br>Batch</h1></br></td>
+         </tr>
+            <tr>
+            <td><br>saksham</h1></td>
+            <td><br>sj1506</h1></td>
+            <td><br>IT</h1></td>
+            </tr>
+               <tr>
+               <td><br>surbhi</h1></td>
+               <td><br>surbhigupta</h1></td>
+               <td><br>IT</h1></td>
+               </tr>
+         </table>
+             <a href ="https://github.com/sj1506">github</a>
+
+                 <b><i><u><ul>saksham jain</b>
+                 
+      </body>
+</html>                    
