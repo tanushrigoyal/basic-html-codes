@@ -1,6 +1,7 @@
 # basic-html-codes
 <html>
   <head>
+  <link type = "stylesheet" href = "style.css" />
     <title>
       Welcome
     </title>
